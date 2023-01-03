@@ -1,2 +1,35 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+ R// 
+
+ 1. Variables: Podemos pensar en ellas como cajas en las que guardamos cosas, las variables son lugares en el lenguaje de programación en los que guardamos varios tipos de datos. Cabe resaltar que las variables tienen una cantidad limitada de tipos de datos que pueden almacenar; tal como una caja puede llevar solo ciertos tipos de cosas específicas.
+
+
+ 2. Strings: Es uno de los 6 tipos de datos que exixten en JS, se caracteriza por definir texto, generalmente es una palabra o una cadena de texto simplemente, además, el interprete de JS, o la consola lo identifica porque tiene "comillas", de hecho, cualquier cadena de texto que loleve comillas se puede definir como una cadena de texto. Ej: 
+
+ var nombre = "Esteban"; 
+ (Esto lo identifica como texto, y cuando se llama a la variable 'nombre', esta arrojará el texto asignado).
+ 
+ O simplemente "Esteban" 
+ (Esto la consola lo interpreta como texto solamente, pero no es una variable definida).
+
+ 3. Funciones: Son un conjunto de instrucciones con el fin de realizar una accion, un conjunto de instrucciones que realiza una tarea o calcula un valor. En JS se usan para seguir trabajando con las variables y asignarles otros valores o hacer algo determinado con ellas.
+
+ 4. Declaraciones: basicamente son las instrucciones que se dan en el codigo para que se pueda ejecutar correctamente.
+ 
+ 5. Valores booleanos: Los valores booleanos son valores que tienen dos opciones, en JS se usan esencialmente con el true false. Ej: 
+
+ var ILoveJavascript = true; 
+
+ var IHateProgramming = false;
+
+
+
 
 
